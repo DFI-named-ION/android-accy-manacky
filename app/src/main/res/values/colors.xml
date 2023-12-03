@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_purple">#272537</color>
+    <color name="soft_sky_blue">#7cc3dd</color>
+    <color name="soft_peach">#ffc554</color>
+    <color name="salmon">#dd7373</color>
+    <color name="light_mint">#4eff91</color>
+    <color name="soft_brown">#48373c</color>
+    <color name="soft_light_purple">#9e8cbb</color>
+    <color name="khaki">#e3c57e</color>
+    <color name="soft_dark_green">#386641</color>
+    <color name="soft_red">#bc4749</color>
+</resources>

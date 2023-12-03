@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688746736858",
+    "project_id": "accymanacky",
+    "storage_bucket": "accymanacky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688746736858:android:46cc24563719a23c5d49e3",
+        "android_client_info": {
+          "package_name": "com.example.accymanacky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM492KMKpiyUKCfTRnS00l1gYwzFPZ7JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

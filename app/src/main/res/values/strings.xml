@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ACCY MANACKY</string>
+    <string name="app_sub_name">Повернення легенди!</string>
+
+    <string name="register_label">Реєстрація</string>
+    <string name="login_label">Авторизація</string>
+
+    <string name="register_btn_text">Зареєструватися</string>
+    <string name="login_btn_text">Авторизуватися</string>
+    <string name="exit_btn_text">Вийти з аккаунту</string>
+
+    <string name="email_label">Електронна пошта:</string>
+    <string name="password_label">Пароль:</string>
+
+    <string name="already_have">Вже маєте аккаунт?</string>
+    <string name="dont_have">Досі не маєте аккаунту?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

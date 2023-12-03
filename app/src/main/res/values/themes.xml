@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AccyManacky" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary Brand Color -->
+        <item name="colorPrimary">@color/soft_sky_blue</item>
+        <item name="colorPrimaryVariant">@color/soft_brown</item>
+        <item name="colorOnPrimary">@color/light_mint</item>
+        <!-- Secondary Brand Color -->
+        <item name="colorSecondary">@color/soft_peach</item>
+        <item name="colorSecondaryVariant">@color/salmon</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+
+    <style name="Theme.AccyManacky" parent="Base.Theme.AccyManacky" />
+</resources>
